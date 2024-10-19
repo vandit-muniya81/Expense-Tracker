@@ -1,0 +1,423 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\migrations\\20241018035234_init6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\migrations\\20241018035234_init6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\views\\access\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\access\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\models\\vmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\models\\vmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\migrations\\20231017071754_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\migrations\\20231017071754_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\migrations\\20241015150750_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\migrations\\20241015150750_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\migrations\\20241017143100_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\migrations\\20241017143100_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|c:\\users\\vandi\\onedrive\\documents\\expense-tracker\\expense tracker\\migrations\\20241017145116_init4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D55279-27CE-4432-BF04-F0E147062B81}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\migrations\\20241017145116_init4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241018035234_init6.cs",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Migrations\\20241018035234_init6.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Migrations\\20241018035234_init6.cs",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Migrations\\20241018035234_init6.cs",
+              "RelativeToolTip": "Expense Tracker\\Migrations\\20241018035234_init6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:52:34.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241017145116_init4.cs",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Migrations\\20241017145116_init4.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Migrations\\20241017145116_init4.cs",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Migrations\\20241017145116_init4.cs",
+              "RelativeToolTip": "Expense Tracker\\Migrations\\20241017145116_init4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:51:16.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T14:38:25.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Expense Tracker\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Expense Tracker\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-17T14:34:10.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Signup.cshtml",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Views\\Access\\Signup.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Access\\Signup.cshtml",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Views\\Access\\Signup.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Access\\Signup.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T14:32:48.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241017143100_init2.cs",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Migrations\\20241017143100_init2.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Migrations\\20241017143100_init2.cs",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Migrations\\20241017143100_init2.cs",
+              "RelativeToolTip": "Expense Tracker\\Migrations\\20241017143100_init2.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T14:31:00.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Models\\User.cs",
+              "RelativeToolTip": "Expense Tracker\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:24:36.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Category\\Details.cshtml",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Category\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T08:58:54.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Expense Tracker\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:05:39.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20231017071754_Initial Create.cs",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Migrations\\20231017071754_Initial Create.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Migrations\\20231017071754_Initial Create.cs",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Migrations\\20231017071754_Initial Create.cs",
+              "RelativeToolTip": "Expense Tracker\\Migrations\\20231017071754_Initial Create.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:17:34.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Models\\Category.cs",
+              "RelativeToolTip": "Expense Tracker\\Models\\Category.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:17:21.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Expense Tracker\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:12:57.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241015150750_init.cs",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Migrations\\20241015150750_init.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Migrations\\20241015150750_init.cs",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Migrations\\20241015150750_init.cs",
+              "RelativeToolTip": "Expense Tracker\\Migrations\\20241015150750_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:07:50.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\appsettings.json",
+              "RelativeDocumentMoniker": "Expense Tracker\\appsettings.json",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\appsettings.json",
+              "RelativeToolTip": "Expense Tracker\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-15T15:03:51.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Expense Tracker\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:02:04.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Models\\Transaction.cs",
+              "RelativeToolTip": "Expense Tracker\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:01:51.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Expense Tracker\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:09:39.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Views\\Access\\Login.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Access\\Login.cshtml",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Views\\Access\\Login.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Access\\Login.cshtml",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAiwF0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T10:16:58.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T10:16:58.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Controllers\\AccessController.cs",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "Expense Tracker\\Controllers\\AccessController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAiwEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:16:58.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VMLogin.cs",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Models\\VMLogin.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Models\\VMLogin.cs",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Models\\VMLogin.cs",
+              "RelativeToolTip": "Expense Tracker\\Models\\VMLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:16:58.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Program.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Program.cs",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Program.cs",
+              "RelativeToolTip": "Expense Tracker\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:16:58.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Expense Tracker\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Expense Tracker\\Controllers\\TransactionController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:16:58.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\vandi\\OneDrive\\Documents\\Expense-Tracker\\Expense Tracker\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T10:16:58.237Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
