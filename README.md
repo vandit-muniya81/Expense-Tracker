@@ -29,7 +29,7 @@ Follow these steps to set up and run the project locally on your machine.
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/vandit-muniya81/Expense-Tracker
+    git clone https://github.com/vandit-muniya81/Expense-Tracker.git
     ```
 
 2. **Navigate to the project directory**:
