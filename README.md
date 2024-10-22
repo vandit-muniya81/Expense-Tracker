@@ -18,7 +18,7 @@ A simple expense tracker application built with .NET Core that allows users to m
 
 - **Backend**: .NET Core
 - **Database**: SQL Server 
-- **PDF Generation**: Library used for exporting statements in PDF format
+- **PDF Generation**: Browser functionality 
 
 ## Getting Started
 
